@@ -1,6 +1,6 @@
 // --- КОНФИГУРАЦИЯ ---
 // ⚠️ АДРЕС ВАШЕГО РАБОЧЕГО API (FastAPI запущен на 8000)
-const API_ENDPOINT = 'http://127.0.0.1:8000/api/v1/track'; 
+const API_ENDPOINT = 'http://api-stats332bot.amvera.io/api/v1/track'; 
 const USER_ID_KEY = 'my_site_user_id'; // Ключ для Local Storage (Уникальный пользователь)
 // ✅ НОВЫЕ КОНСТАНТЫ ДЛЯ УПРАВЛЕНИЯ СЕССИЕЙ
 const SESSION_TIMEOUT = 30 * 60 * 1000; // 30 минут в миллисекундах (стандарт)
